@@ -11,8 +11,8 @@
     <PackageReference Include="Betalgo.OpenAI.GPT3" Version="6.5.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.0" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
-    <PackageReference Include="Twilio" Version="6.0.1" />
-    <PackageReference Include="Twilio.AspNet.Core" Version="6.0.0" />
+    <PackageReference Include="Twilio" Version="6.2.0" />
+    <PackageReference Include="Twilio.AspNet.Core" Version="7.0.0" />
   </ItemGroup>
 
 </Project>
